@@ -22,4 +22,8 @@ Chapter 1 is finished (12 pages). It covers what a system and a design are, requ
 
 ## Licence
 
-No licence has been chosen yet. Until one is added, all rights are reserved.
+Learn System Design Step by Step (c) by Mustansir Vasi
+
+Learn System Design Step by Step is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+You should have received a copy of the license along with this work. If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
